@@ -1,11 +1,11 @@
 # Yaşam faktörlerinin uyku üzerindeki etkisi analizi
 ## Grup üyeleri:
 İsim Soyisim | GitHub Profili  
-Aysima Berçin |  @AysimaBercin(https://github.com/AysimaBercin)  
-Onur Vatansever | @onurvatansever(https://github.com/onurvatansever)  
-Sezin Bekçi  |  @sezniib(https://github.com/sezniib)  
-Meryem Serin | @meryemserin(https://github.com/meryemserin)  
-Fatih Karaca | @fatihkaraca10(https://github.com/fatihkaraca10)
+Aysima Berçin |  [@AysimaBercin](https://github.com/AysimaBercin)  
+Onur Vatansever | [@onurvatansever](https://github.com/onurvatansever)  
+Sezin Bekçi  |  [@sezniib](https://github.com/sezniib)  
+Meryem Serin | [@meryemserin](https://github.com/meryemserin)  
+Fatih Karaca | [@fatihkaraca10](https://github.com/fatihkaraca10)
 
 **Hipotez**: Yaşam tarzı faktörleri ile uyku kalitesi arasında bağlantı vardır.
 
